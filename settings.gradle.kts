@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "JetBizCard"
 include(":app")
- 
+include(":app:mykotlin")
